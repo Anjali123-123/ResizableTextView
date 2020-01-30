@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+//final
         final TextView txtAutoSizeTextViewDynamic = findViewById(R.id.autoTextViewDynamic);
         EditText editText = findViewById(R.id.editText);
 
